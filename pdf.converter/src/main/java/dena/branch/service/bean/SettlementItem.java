@@ -1,12 +1,14 @@
 package dena.branch.service.bean;
 
+import java.math.BigDecimal;
+
 public class SettlementItem {
 	private int cityCode;
 	private String cityName;
 	private String branchCode;
 	private String branchName;
 	private int inItems;
-	private double inAmount;
+	private BigDecimal inAmount;
 
 	public int getCityCode() {
 		return cityCode;
@@ -40,13 +42,13 @@ public class SettlementItem {
 		this.inItems = inItems;
 	}
 
-	public double getInAmount() {
-		return inAmount;
-	}
+	
 
-	public void setInAmount(double inAmount) {
+	public void setInAmount(BigDecimal inAmount) {
 		this.inAmount = inAmount;
 	}
+
+
 
 	public String getBranchName() {
 		return branchName;
@@ -54,6 +56,10 @@ public class SettlementItem {
 
 	public void setBranchName(String branchName) {
 		this.branchName = branchName;
+	}
+
+	public BigDecimal getInAmount() {
+		return inAmount;
 	}
 	
 
