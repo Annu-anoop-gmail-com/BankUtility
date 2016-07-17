@@ -1,0 +1,1615 @@
+           Branch Settlement          Report  -  Group by      city
+
+Report ID               : A10-C                  Session No    :  1
+
+Report Generation Date  : 15/07/2016             Session Date  :  15/07/2016
+
+Report Generation Time  :  8:00:35PM             Bank          :  DENA BANK
+Report ID     :  A10-C                             DENA BANK                                                          Clearing Type  :  Local
+
+Session No    :  1                                                                                                    Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                           Destination    :  110018000
+
+Value Date    :  16/07/2016                Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  110,  NEW DELHI
+
+Branch              Branch                         Outward                                    Inward                                 Net Amount
+
+Routing No          Name                                                                                                                (INR)
+
+                                           Items              Amount                   Items          Amount
+
+                                                              (INR)                                   (INR)
+
+110018001           SERVICE BRANCH (SER)   3                  35,270.00                0              0.00                           35,270.00
+
+110018001           SERVICE BRANCH (SER)   0                  0.00                     1051           7,92,93,471.16               7,92,93,471.16  DR
+
+110018002           CHANDNI CHOWK(CHC)     0                  0.00                     85             37,05,734.00                   37,05,734.00  DR
+
+110018003           CHAWRI BAZAR (CHB)     0                  0.00                     50             22,17,298.00                   22,17,298.00  DR
+
+110018003           CHAWRI BAZAR (CHB)     80               38,29,705.29               0              0.00                           38,29,705.29
+
+110018004           MAYAPURI(MYP)          0                  0.00                     59             33,11,666.08                   33,11,666.08  DR
+
+110018004           MAYAPURI(MYP)          43               76,74,915.40               0              0.00                           76,74,915.40
+
+110018005           KAROL BAGH             0                  0.00                     35             1,03,52,999.75               1,03,52,999.75  DR
+
+110018005           KAROL BAGH             44               8,66,771.00                0              0.00                           8,66,771.00
+
+110018006           CONNAUGHT CIRCUS(CCS)  38               1,13,51,218.00             0              0.00                         1,13,51,218.00
+
+110018006           CONNAUGHT CIRCUS(CCS)  0                  0.00                     87             1,04,85,653.98               1,04,85,653.98  DR
+
+110018007           SUBZI MANDI (SZM)      0                  0.00                     66             59,06,049.36                   59,06,049.36  DR
+
+110018007           SUBZI MANDI (SZM)      56               20,30,221.00               0              0.00                           20,30,221.00
+
+110018008           DARYA GANJ(DGJ)        0                  0.00                     82             22,68,642.00                   22,68,642.00  DR
+
+National Payments Corporation of India                                                                                                  Page       1 of  1
+Report ID     :  A10-C                                   DENA BANK                                                Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016                      Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+110018008           DARYA GANJ(DGJ)              67      23,38,143.98                        0    0.00                           23,38,143.98
+
+110018009           GARSTION BASTION ROAD (GBR)  98      36,88,585.34                        0    0.00                           36,88,585.34
+
+110018009           GARSTION BASTION ROAD (GBR)  0                  0.00                     89   50,88,179.96                   50,88,179.96     DR
+
+110018010           NAJAFGARH ROAD(NJH)          0                  0.00                     85   37,40,049.59                   37,40,049.59     DR
+
+110018010           NAJAFGARH ROAD(NJH)          77      59,49,820.00                        0    0.00                           59,49,820.00
+
+110018011           WAZIRPUR (WPR)               60      59,37,018.23                        0    0.00                           59,37,018.23
+
+110018011           WAZIRPUR (WPR)               0                  0.00                     59   23,70,341.01                   23,70,341.01     DR
+
+110018012           NEHRU PLACE(NHP)             74      1,64,09,303.88                      0    0.00                         1,64,09,303.88
+
+110018012           NEHRU PLACE(NHP)             0                  0.00                     118  2,25,83,058.45               2,25,83,058.45     DR
+
+110018013           SAFDARJUNG ENCLAVE (SJE)     57      31,30,411.37                        0    0.00                           31,30,411.37
+
+110018013           SAFDARJUNG ENCLAVE (SJE)     0                  0.00                     31   4,03,271.00                    4,03,271.00      DR
+
+110018014           OKHLA(OKH)                   0                  0.00                     67   54,33,938.28                   54,33,938.28     DR
+
+110018014           OKHLA(OKH)                   62      18,99,923.87                        0    0.00                           18,99,923.87
+
+110018015           HARI NAGAR (HAN)             467     95,60,554.00                        0    0.00                           95,60,554.00
+
+110018015           HARI NAGAR (HAN)             0                  0.00                     113  30,00,717.79                   30,00,717.79     DR
+
+110018016           ALIPORE ROAD(ALR)            10      3,36,037.00                         0    0.00                           3,36,037.00
+
+110018016           ALIPORE ROAD(ALR)            0                  0.00                     60   41,99,394.00                   41,99,394.00     DR
+
+110018017           RAJENDRA PLACE (RPL)         36      8,63,400.23                         0    0.00                           8,63,400.23
+
+National Payments Corporation of India                                                                                              Page       1  of 44
+Report ID     :  A10-C                                      DENA BANK                                                Clearing Type  :  Local
+
+Session No    :  1                                                                                                   Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                          Destination    :  110018000
+
+Value Date    :  16/07/2016                         Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+110018017           RAJENDRA PLACE (RPL)            0                  0.00                     176  1,30,00,208.00               1,30,00,208.00     DR
+
+110018018           LODI ROAD(LOD)                  55      32,40,743.00                        0    0.00                           32,40,743.00
+
+110018018           LODI ROAD(LOD)                  0                  0.00                     66   21,92,822.08                   21,92,822.08     DR
+
+110018019           CHHATARPUR (CHR)                81      23,83,318.00                        0    0.00                           23,83,318.00
+
+110018019           CHHATARPUR (CHR)                0                  0.00                     101  29,62,030.45                   29,62,030.45     DR
+
+110018020           LAXMI NAGAR(LNR)                84      24,97,152.20                        0    0.00                           24,97,152.20
+
+110018020           LAXMI NAGAR(LNR)                0                  0.00                     121  26,01,431.00                   26,01,431.00     DR
+
+110018021           SCOPE COMPLEX (SCP)             0                  0.00                     44   13,35,887.00                   13,35,887.00     DR
+
+110018021           SCOPE COMPLEX (SCP)             17      53,96,753.00                        0    0.00                           53,96,753.00
+
+110018022           PITAMPURA (WEST) (PPW)          0                  0.00                     92   47,24,195.00                   47,24,195.00     DR
+
+110018022           PITAMPURA (WEST) (PPW)          63      28,09,850.28                        0    0.00                           28,09,850.28
+
+110018023           NEELAM BATA RD.FARIDABAD (FBD)  0                  0.00                     105  40,34,713.53                   40,34,713.53     DR
+
+110018023           NEELAM BATA RD.FARIDABAD (FBD)  105     78,56,415.33                        0    0.00                           78,56,415.33
+
+110018025           GURGAON(GUR)                    0                  0.00                     58   17,42,171.00                   17,42,171.00     DR
+
+110018025           GURGAON(GUR)                    63      44,41,136.44                        0    0.00                           44,41,136.44
+
+110018026           NOIDA(NDA)                      498     1,23,20,276.91                      0    0.00                         1,23,20,276.91
+
+110018026           NOIDA(NDA)                      0                  0.00                     97   43,36,000.67                   43,36,000.67     DR
+
+110018028           SOUTH EXTENSION PART-I (SEX)    0                  0.00                     51   9,34,025.00                    9,34,025.00      DR
+
+National Payments Corporation of India                                                                                                 Page       2  of 44
+Report ID     :  A10-C                                        DENA BANK                                             Clearing Type  :  Local
+
+Session No    :  1                                                                                                  Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                         Destination    :  110018000
+
+Value Date    :  16/07/2016                           Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+110018028           SOUTH EXTENSION PART-I (SEX)      61      9,64,108.00                         0   0.00                         9,64,108.00
+
+110018029           NAVYUG MARKET GHAZIABAD (GZB)     0                  0.00                     47  22,46,297.69                 22,46,297.69     DR
+
+110018029           NAVYUG MARKET GHAZIABAD (GZB)     42      17,69,931.00                        0   0.00                         17,69,931.00
+
+110018030           PASCHIM VIHAR                     23      12,72,906.00                        0   0.00                         12,72,906.00
+
+110018030           PASCHIM VIHAR                     0                  0.00                     34  6,15,620.55                  6,15,620.55      DR
+
+110018031           UTTAM NAGAAR                      52      13,41,824.00                        0   0.00                         13,41,824.00
+
+110018031           UTTAM NAGAAR                      0                  0.00                     63  24,29,110.29                 24,29,110.29     DR
+
+110018032           LAL KAUN GHAZIABAD(SHA)           29      20,08,370.00                        0   0.00                         20,08,370.00
+
+110018032           LAL KAUN GHAZIABAD(SHA)           0                  0.00                     14  5,24,540.00                  5,24,540.00      DR
+
+110018033           5/491 INDIRA COLONY SONEPAT(INC)  0                  0.00                     6   1,53,727.00                  1,53,727.00      DR
+
+110018033           5/491 INDIRA COLONY SONEPAT(INC)  41      10,88,435.00                        0   0.00                         10,88,435.00
+
+110018034           SECTOR-128,DWARKA                 22      13,00,814.00                        0   0.00                         13,00,814.00
+
+110018034           SECTOR-128,DWARKA                 0                  0.00                     38  6,07,546.97                  6,07,546.97      DR
+
+110018035           KAILASH HOSPITAL                  0                  0.00                     39  7,65,355.00                  7,65,355.00      DR
+
+                    BUILDING,GREATER NOIDA
+
+110018035           KAILASH HOSPITAL                  12      11,50,563.00                        0   0.00                         11,50,563.00
+
+                    BUILDING,GREATER NOIDA
+
+110018036           KAROL BAGH                        2                  34,270.00                0   0.00                         34,270.00
+
+110018037           SECTOR-3,ROHINI                   0                  0.00                     37  10,25,304.00                 10,25,304.00     DR
+
+110018037           SECTOR-3,ROHINI                   36      15,62,121.00                        0   0.00                         15,62,121.00
+
+National Payments Corporation of India                                                                                                Page       3  of 44
+Report ID     :  A10-C                                            DENA BANK                                             Clearing Type  :  Local
+
+Session No    :  1                                                                                                      Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                             Destination    :  110018000
+
+Value Date    :  16/07/2016                               Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+110018038           Corporat Businees Br. E-13/59,Harsha  0                  0.00                     2   91,261.00                    91,261.00        DR
+
+                    Bhawan
+
+110018039           KUINDLI                               0                  0.00                     7   68,698.00                    68,698.00        DR
+
+110018039           KUINDLI                               18      12,54,445.00                        0   0.00                         12,54,445.00
+
+110018040           PATPARGANJ                            0                  0.00                     61  11,60,556.00                 11,60,556.00     DR
+
+110018040           PATPARGANJ                            48      34,64,797.98                        0   0.00                         34,64,797.98
+
+110018041           NANGLOI                               29      10,45,614.00                        0   0.00                         10,45,614.00
+
+110018041           NANGLOI                               0                  0.00                     42  8,22,049.00                  8,22,049.00      DR
+
+110018042           SHASTRI GARDEN                        16      7,51,592.00                         0   0.00                         7,51,592.00
+
+110018042           SHASTRI GARDEN                        0                  0.00                     21  5,65,950.00                  5,65,950.00      DR
+
+110018043           SAKET                                 0                  0.00                     36  4,80,584.00                  4,80,584.00      DR
+
+110018043           SAKET                                 15      10,00,103.00                        0   0.00                         10,00,103.00
+
+110018044           MANESAR BRANCH                        20      21,27,894.00                        0   0.00                         21,27,894.00
+
+110018044           MANESAR BRANCH                        0                  0.00                     8   1,56,051.00                  1,56,051.00      DR
+
+110018045           KABIR NAGAR                           0                  0.00                     33  4,71,756.00                  4,71,756.00      DR
+
+110018045           KABIR NAGAR                           24      5,45,473.74                         0   0.00                         5,45,473.74
+
+110018046           BAWANA INDUSTRIAL AREA                9       3,02,664.00                         0   0.00                         3,02,664.00
+
+110018046           BAWANA INDUSTRIAL AREA                0                  0.00                     19  17,59,010.00                 17,59,010.00     DR
+
+110018047           JHAJJAR ROAD, BAHADURGARH             17      3,64,241.00                         0   0.00                         3,64,241.00
+
+National Payments Corporation of India                                                                                                    Page       4  of 44
+Report ID     :  A10-C                                     DENA BANK                                             Clearing Type  :  Local
+
+Session No    :  1                                                                                               Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                      Destination    :  110018000
+
+Value Date    :  16/07/2016                        Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+110018047           JHAJJAR ROAD, BAHADURGARH      0                  0.00                     8   2,59,758.00                  2,59,758.00      DR
+
+110018048           Maidan Garh                    0                  0.00                     16  2,53,466.00                  2,53,466.00      DR
+
+110018048           Maidan Garh                    11      1,94,847.00                         0   0.00                         1,94,847.00
+
+110018049           UGARSEN PARK, NANGLOI          16      3,81,997.00                         0   0.00                         3,81,997.00
+
+                    ROAD,NAZAFGARH,NEW DELHI
+
+110018049           UGARSEN PARK, NANGLOI          0                  0.00                     16  6,62,679.00                  6,62,679.00      DR
+
+                    ROAD,NAZAFGARH,NEW DELHI
+
+110018050           YAMUNA VIHAR, DELHI            25      6,89,002.16                         0   0.00                         6,89,002.16
+
+110018050           YAMUNA VIHAR, DELHI            0                  0.00                     19  3,30,458.00                  3,30,458.00      DR
+
+110018051           MAIN ROAD, KALKAJI, NEW DELHI  0                  0.00                     12  1,96,674.00                  1,96,674.00      DR
+
+110018051           MAIN ROAD, KALKAJI, NEW DELHI  16      5,78,435.00                         0   0.00                         5,78,435.00
+
+110018052           JAWAHAR PARK, KHANPUR, NEW     0                  0.00                     42  10,04,928.00                 10,04,928.00     DR
+
+                    DELHI
+
+110018052           JAWAHAR PARK, KHANPUR, NEW     56      16,78,388.00                        0   0.00                         16,78,388.00
+
+                    DELHI
+
+110018053           SECTOR 16, ROHINI, NEW DELHI   33      15,51,622.00                        0   0.00                         15,51,622.00
+
+110018053           SECTOR 16, ROHINI, NEW DELHI   0                  0.00                     28  6,10,301.60                  6,10,301.60      DR
+
+110018054           VIKASPURI, NEW DELHI           21      15,09,076.00                        0   0.00                         15,09,076.00
+
+110018054           VIKASPURI, NEW DELHI           0                  0.00                     13  9,69,128.00                  9,69,128.00      DR
+
+110018055           CHANDAN NAGAR,SECTOR-15,       8       1,15,302.00                         0   0.00                         1,15,302.00
+
+                    PART-II,GURGAON
+
+110018055           CHANDAN NAGAR,SECTOR-15,       0                  0.00                     9   18,16,717.00                 18,16,717.00     DR
+
+                    PART-II,GURGAON
+
+110018056           NANDRAMPUR,BASS ROAD,SHIV      7       1,45,890.00                         0   0.00                         1,45,890.00
+
+                    NAGAR,DHARUHERA
+
+National Payments Corporation of India                                                                                             Page       5  of 44
+Report ID     :  A10-C                                     DENA BANK                                            Clearing Type  :  Local
+
+Session No    :  1                                                                                              Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                     Destination    :  110018000
+
+Value Date    :  16/07/2016                        Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+110018057           SANT NAGAR, BURARI             0                  0.00                     28  4,94,145.00                 4,94,145.00      DR
+
+110018057           SANT NAGAR, BURARI             36      4,88,567.00                         0   0.00                        4,88,567.00
+
+110018058           PANCHAYAT COMMITTEE            1       3,16,710.00                         0   0.00                        3,16,710.00
+
+                    OFFICE,VILL. RAI,SONEPAT
+
+110018058           PANCHAYAT COMMITTEE            0                  0.00                     5   3,01,505.00                 3,01,505.00      DR
+
+                    OFFICE,VILL. RAI,SONEPAT
+
+110018059           AVANI PLAZA, MAIN MOHNA        0                  0.00                     18  4,86,334.00                 4,86,334.00      DR
+
+                    RD.YADAV COLONY,BALLABGARH
+
+110018059           AVANI PLAZA, MAIN MOHNA        23      12,61,704.75                        0   0.00                        12,61,704.75
+
+                    RD.YADAV COLONY,BALLABGARH
+
+110018061           BHOGAL ROAD JUNGPURA (ASHRAM)  12      3,07,687.00                         0   0.00                        3,07,687.00
+
+110018061           BHOGAL ROAD JUNGPURA (ASHRAM)  0                  0.00                     7   30,166.00                   30,166.00        DR
+
+110018062           KRISHNA COLD STORAGE NEW       0                  0.00                     2   5,06,730.00                 5,06,730.00      DR
+
+                    SUBZIMANDI,  AZADPUR
+
+110018062           KRISHNA COLD STORAGE NEW       9       1,38,021.00                         0   0.00                        1,38,021.00
+
+                    SUBZIMANDI,  AZADPUR
+
+110018063           MAHILA COLONY GANDHI NAGAR     7       1,71,127.00                         0   0.00                        1,71,127.00
+
+110018063           MAHILA COLONY GANDHI NAGAR     0                  0.00                     16  2,15,961.31                 2,15,961.31      DR
+
+110018064           BAWANA ROAD NARELA DELHI       8       1,83,613.00                         0   0.00                        1,83,613.00
+
+110018064           BAWANA ROAD NARELA DELHI       0                  0.00                     10  2,81,371.00                 2,81,371.00      DR
+
+110018065           SECTOR 63 NOIDA UP             0                  0.00                     5   98,656.00                   98,656.00        DR
+
+110018065           SECTOR 63 NOIDA UP             17      12,03,131.00                        0   0.00                        12,03,131.00
+
+110018066           VAISHALI UP                    7       5,26,086.00                         0   0.00                        5,26,086.00
+
+110018066           VAISHALI UP                    0                  0.00                     8   5,87,918.15                 5,87,918.15      DR
+
+National Payments Corporation of India                                                                                            Page       6  of 44
+Report ID     :  A10-C                                         DENA BANK                                                   Clearing Type  :  Local
+
+Session No    :  1                                                                                                         Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                Destination    :  110018000
+
+Value Date    :  16/07/2016                            Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+110018067           C-4 NYAYA KHAND-1 INDIRAPURAM      6       6,20,188.00                         0      0.00                            6,20,188.00
+
+                    GHAZIABAD 201014 (NI
+
+110018067           C-4 NYAYA KHAND-1 INDIRAPURAM      0                  0.00                     5      20,912.00                       20,912.00     DR
+
+                    GHAZIABAD 201014 (NI
+
+110018068           JANTA MARKET RAJOURI GARDEN        0                  0.00                     4      1,25,591.00                     1,25,591.00   DR
+
+110018068           JANTA MARKET RAJOURI GARDEN        8       3,27,395.00                         0      0.00                            3,27,395.00
+
+110018069           PLOT NO.1 KHASRA NO.449 SEC.51     2                  25,827.00                0      0.00                            25,827.00
+
+                    VILLAGE HOSHIARPUR
+
+110018069           PLOT NO.1 KHASRA NO.449 SEC.51     0                  0.00                     1      1,000.00                           1,000.00   DR
+
+                    VILLAGE HOSHIARPUR
+
+110018070           J-3,RAJ NAGAR DISTRICT             8       1,17,562.00                         0      0.00                            1,17,562.00
+
+                    CENTRE,RDC,RAJ NAGAR
+
+110018070           J-3,RAJ NAGAR DISTRICT             0                  0.00                     1      8,000.00                           8,000.00   DR
+
+                    CENTRE,RDC,RAJ NAGAR
+
+110018071           JAJJHAR ROAD,DANKAUR,GAUTAM        1       2,00,000.00                         0      0.00                            2,00,000.00
+
+                    BUDH NAGAR,NEAR GHASI
+
+110018073           GROUND FLOOR, PLOT No - 15, C-15,  0                  0.00                     1      25,000.00                       25,000.00     DR
+
+                    GHAZIABAD
+
+                        Total                          3,092   15,29,29,288.38                     3,829  22,54,54,763.70               7,25,25,475.32  DR
+
+National Payments Corporation of India                                                                                                       Page 7 of 44
+Report ID     :  A10-C                                      DENA BANK                                                      Clearing Type  :  Local
+
+Session No    :  1                                                                                                         Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                Destination    :  110018000
+
+Value Date    :  16/07/2016                         Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  132,  PANIPAT
+
+Branch              Branch                                  Outward                                     Inward                            Net Amount
+
+Routing No          Name                                                                                                                     (INR)
+
+                                                    Items                        Amount          Items          Amount
+
+                                                                                 (INR)                          (INR)
+
+132018002           EKTA CHOWK, JATAL ROAD,PANIPAT  0                            0.00            3              27,211.00                 27,211.00   DR
+
+                        Total                       0                            0.00            3              27,211.00                 27,211.00   DR
+
+National Payments Corporation of India                                                                                                       Page 8 of 44
+Report ID     :  A10-C                                      DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                           Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                  Destination    :  110018000
+
+Value Date    :  16/07/2016                         Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  133,  AMBALA
+
+Branch              Branch                                  Outward                                     Inward                              Net Amount
+
+Routing No          Name                                                                                                                       (INR)
+
+                                                    Items                        Amount          Items          Amount
+
+                                                                                 (INR)                          (INR)
+
+133018002           AMBALA CANTT                    0                            0.00            1              1,15,500.00                 1,15,500.00  DR
+
+133018003           GANPATI TOWER, 91 PREM  NAGAR,  0                            0.00            2              14,895.00                   14,895.00    DR
+
+                    AMBALA CITY, AMBALA,
+
+                        Total                       0                            0.00            3              1,30,395.00                 1,30,395.00  DR
+
+National Payments Corporation of India                                                                                                         Page 9 of 44
+Report ID     :  A10-C                                         DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                              Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                     Destination    :  110018000
+
+Value Date    :  16/07/2016                            Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  141,  LUDHIANA
+
+Branch              Branch                                     Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                          (INR)
+
+                                                       Items              Amount                   Items          Amount
+
+                                                                          (INR)                                   (INR)
+
+141018000           DENA BANK                          0                  0.00                     5              3,15,989.00                  3,15,989.00   DR
+
+141018002           SERVICE BRANCH                     0                  0.00                     83             37,61,006.00                 37,61,006.00  DR
+
+141018002           SERVICE BRANCH                     56               55,94,728.00               0              0.00                         55,94,728.00
+
+141018003           BHARAT NAGAR CHOWK                 11               8,31,580.00                0              0.00                         8,31,580.00
+
+141018003           BHARAT NAGAR CHOWK                 0                  0.00                     50             10,25,531.00                 10,25,531.00  DR
+
+141018004           SAI TOWER, 202, INDUSTRIAL  AREA,  0                  0.00                     25             28,70,590.41                 28,70,590.41  DR
+
+                    LUDHIANA
+
+141018004           SAI TOWER, 202, INDUSTRIAL  AREA,  26               32,46,872.00               0              0.00                         32,46,872.00
+
+                    LUDHIANA
+
+141018005                                              34               17,93,576.00               0              0.00                         17,93,576.00
+
+                        Total                          127              1,14,66,756.00             163            79,73,116.41                 34,93,639.59
+
+National Payments Corporation of India                                                                                                            Page 10 of 44
+Report ID     :  A10-C                                              DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                                   Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                          Destination    :  110018000
+
+Value Date    :  16/07/2016                                 Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  143,  AMRITSAR
+
+Branch              Branch                                          Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                               (INR)
+
+                                                            Items              Amount                   Items          Amount
+
+                                                                               (INR)                                   (INR)
+
+143018002           NEW MARKET                              0                  0.00                     68             26,69,268.00                 26,69,268.00  DR
+
+143018002           NEW MARKET                              126              59,20,470.23               0              0.00                         59,20,470.23
+
+143018003           CIVIL LINE                              0                  0.00                     26             18,80,961.00                 18,80,961.00  DR
+
+143018003           CIVIL LINE                              37               16,84,180.00               0              0.00                         16,84,180.00
+
+143018005           Main Fatehgarh  Churian  Road,Opp.Post  0                  0.00                     4              38,931.00                    38,931.00     DR
+
+                    Office,Majith
+
+                        Total                               163              76,04,650.23               98             45,89,160.00                 30,15,490.23
+
+National Payments Corporation of India                                                                                                                 Page 11 of 44
+Report ID     :  A10-C                           DENA BANK                                                       Clearing Type  :  Local
+
+Session No    :  1                                                                                               Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                      Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  144,  JALANDHAR
+
+Branch              Branch                       Outward                                    Inward                              Net Amount
+
+Routing No          Name                                                                                                           (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+144018000           service branch       0                  0.00                     2              71,834.00                   71,834.00     DR
+
+144018001           GT ROAD              51               12,80,186.00               0              0.00                        12,80,186.00
+
+144018001           GT ROAD              0                  0.00                     27             7,47,849.40                 7,47,849.40   DR
+
+                        Total            51               12,80,186.00               29             8,19,683.40                 4,60,502.60
+
+National Payments Corporation of India                                                                                             Page 12 of 44
+Report ID     :  A10-C                                DENA BANK                                                       Clearing Type  :  Local
+
+Session No    :  1                                                                                                    Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                           Destination    :  110018000
+
+Value Date    :  16/07/2016                   Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  147,  PATIALA
+
+Branch              Branch                            Outward                                    Inward                              Net Amount
+
+Routing No          Name                                                                                                                (INR)
+
+                                              Items              Amount                   Items          Amount
+
+                                                                 (INR)                                   (INR)
+
+147018002           DHARAMPUR BRANCH PATIALA  0                  0.00                     27             7,80,912.00                 7,80,912.00  DR
+
+147018002           DHARAMPUR BRANCH PATIALA  25               4,66,441.00                0              0.00                        4,66,441.00
+
+                        Total                 25               4,66,441.00                27             7,80,912.00                 3,14,471.00  DR
+
+National Payments Corporation of India                                                                                                  Page 13 of 44
+Report ID     :  A10-C                                    DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                         Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                Destination    :  110018000
+
+Value Date    :  16/07/2016                       Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  160,  CHANDIGARH
+
+Branch              Branch                                Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                     (INR)
+
+                                                  Items              Amount                   Items          Amount
+
+                                                                     (INR)                                   (INR)
+
+160018000           DENA BANK                     0                  0.00                     9              16,16,408.00                 16,16,408.00  DR
+
+160018001           DEB SECTOR 7, CHANDIGARH      29               13,13,712.58               0              0.00                         13,13,712.58
+
+160018001           DEB SECTOR 7, CHANDIGARH      0                  0.00                     36             7,37,254.00                  7,37,254.00   DR
+
+160018002           DEB SAI RD,BADDI              0                  0.00                     12             5,22,727.00                  5,22,727.00   DR
+
+160018002           DEB SAI RD,BADDI              38               22,65,568.60               0              0.00                         22,65,568.60
+
+160018003           DEB SCF-127,PHASE-3B2,MOHALI  16               14,76,973.48               0              0.00                         14,76,973.48
+
+160018003           DEB SCF-127,PHASE-3B2,MOHALI  0                  0.00                     37             6,26,026.00                  6,26,026.00   DR
+
+160018004           DEB SEC-21,PANCHKULA          0                  0.00                     6              2,68,780.00                  2,68,780.00   DR
+
+160018004           DEB SEC-21,PANCHKULA          3                69,88,000.00               0              0.00                         69,88,000.00
+
+160018005           DEB SCF -182,SEC-38C,CHD      0                  0.00                     25             5,29,557.30                  5,29,557.30   DR
+
+160018005           DEB SCF -182,SEC-38C,CHD      14               4,09,489.00                0              0.00                         4,09,489.00
+
+160018006           DEB PARAS RAM MARKET          21               20,01,119.00               0              0.00                         20,01,119.00
+
+                    CHANDIGARH AMBALA ROAD NH12,
+
+160018006           DEB PARAS RAM MARKET          0                  0.00                     4              80,031.00                    80,031.00     DR
+
+                    CHANDIGARH AMBALA ROAD NH12,
+
+160018007           DEB SHOP NO. 16, ADJ          0                  0.00                     103            7,29,147.00                  7,29,147.00   DR
+
+                    GURUDWARA SAHIB, ZIRAKPUR, P
+
+National Payments Corporation of India                                                                                                       Page 14    of 44
+Report ID     :  A10-C                                     DENA BANK                                              Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016                        Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+160018007           DEB SHOP NO. 16, ADJ           16      3,05,406.00                         0    0.00                         3,05,406.00
+
+                    GURUDWARA SAHIB, ZIRAKPUR, P
+
+160018008           SCO :- 204, SECTOR : - 14,     0                  0.00                     2    73,208.00                    73,208.00     DR
+
+                    PANCHKULA - 134 112
+
+160018008           SCO :- 204, SECTOR : - 14,     10      2,61,470.00                         0    0.00                         2,61,470.00
+
+                    PANCHKULA - 134 112
+
+160018009           GURU NANAK SQUARE, CHANDIGARH  0                  0.00                     2    14,900.00                    14,900.00     DR
+
+                    - KHARAR HIGHWAY, OP
+
+160018009           GURU NANAK SQUARE, CHANDIGARH  4                  66,606.47                0    0.00                         66,606.47
+
+                    - KHARAR HIGHWAY, OP
+
+160018010                                          3       1,75,191.00                         0    0.00                         1,75,191.00
+
+160018011           ANAND COMPLEX                  1       2,00,000.00                         0    0.00                         2,00,000.00
+
+160018011           ANAND COMPLEX                  0                  0.00                     2    86,300.00                    86,300.00     DR
+
+                        Total                      155     1,54,63,536.13                      238  52,84,338.30               1,01,79,197.83
+
+National Payments Corporation of India                                                                                              Page 15 of 44
+Report ID     :  A10-C                               DENA BANK                                                       Clearing Type  :  Local
+
+Session No    :  1                                                                                                   Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                          Destination    :  110018000
+
+Value Date    :  16/07/2016                  Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  180,  JAMMU
+
+Branch              Branch                           Outward                                    Inward                              Net Amount
+
+Routing No          Name                                                                                                               (INR)
+
+                                             Items              Amount                   Items          Amount
+
+                                                                (INR)                                   (INR)
+
+180018002           R N BAZAR (RBZ)          0                  0.00                     20             5,32,323.00                 5,32,323.00  DR
+
+180018002           R N BAZAR (RBZ)          99               6,61,448.00                0              0.00                        6,61,448.00
+
+180018003           KUNJWANI, GANGYAL (DBJ)  0                  0.00                     8              3,59,576.00                 3,59,576.00  DR
+
+                        Total                99               6,61,448.00                28             8,91,899.00                 2,30,451.00  DR
+
+National Payments Corporation of India                                                                                                 Page 16 of 44
+Report ID     :  A10-C                                       DENA BANK                                                         Clearing Type  :  Local
+
+Session No    :  1                                                                                                             Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                    Destination    :  110018000
+
+Value Date    :  16/07/2016                          Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  202,  ALIGARH
+
+Branch              Branch                                   Outward                                     Inward                               Net Amount
+
+Routing No          Name                                                                                                                         (INR)
+
+                                                     Items                        Amount          Items          Amount
+
+                                                                                  (INR)                          (INR)
+
+202018002           MAIN BR. SHAH KAMAL  RD.  (MNB)  0                            0.00            14             5,21,385.00                  5,21,385.00   DR
+
+202018003           CIVIL LINES (CVL)                0                            0.00            20             8,85,104.00                  8,85,104.00   DR
+
+                        Total                        0                            0.00            34             14,06,489.00                 14,06,489.00  DR
+
+National Payments Corporation of India                                                                                                           Page 17 of 44
+Report ID     :  A10-C                                      DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                           Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                  Destination    :  110018000
+
+Value Date    :  16/07/2016                         Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  208,   KANPUR
+
+Branch              Branch                                  Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                       (INR)
+
+                                                    Items              Amount                   Items          Amount
+
+                                                                       (INR)                                   (INR)
+
+208018002           BIRHANA ROAD                    98               35,02,599.00               0              0.00                         35,02,599.00
+
+208018002           BIRHANA ROAD                    0                  0.00                     61             61,08,930.68                 61,08,930.68  DR
+
+208018003           BURRA(BRR)                      0                  0.00                     14             15,00,293.00                 15,00,293.00  DR
+
+208018004           UNNAO (DUN)                     0                  0.00                     2              65,000.00                    65,000.00     DR
+
+208018005           DADA NAGAR, INDUSTRIAL  ESTATE  0                  0.00                     12             3,71,151.00                  3,71,151.00   DR
+
+                    (DDN)
+
+208018006           KIDWAI NAGAR(DKN)               0                  0.00                     4              29,110.00                    29,110.00     DR
+
+                        Total                       98               35,02,599.00               93             80,74,484.68                 45,71,885.68  DR
+
+National Payments Corporation of India                                                                                                         Page 18 of 44
+Report ID     :  A10-C                                  DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                       Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                              Destination    :  110018000
+
+Value Date    :  16/07/2016                     Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  211,  ALLAHABAD
+
+Branch              Branch                              Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                   (INR)
+
+                                                Items              Amount                   Items          Amount
+
+                                                                   (INR)                                   (INR)
+
+211018002           JOHNSTONGANJ                0                  0.00                     47             25,30,326.00                 25,30,326.00  DR
+
+211018002           JOHNSTONGANJ                49               14,02,817.18               0              0.00                         14,02,817.18
+
+211018003           NYAYANAGAR                  4                24,56,512.00               0              0.00                         24,56,512.00
+
+211018003           NYAYANAGAR                  0                  0.00                     18             6,73,762.70                  6,73,762.70   DR
+
+211018004           RAMBAGH                     0                  0.00                     21             5,83,536.00                  5,83,536.00   DR
+
+211018004           RAMBAGH                     23               6,48,325.40                0              0.00                         6,48,325.40
+
+211018005           SHEOGARH, SORAON     (DSG)  0                  0.00                     2              52,150.00                    52,150.00     DR
+
+211018006           BABUGANJ(DBG)               0                  0.00                     2              41,400.00                    41,400.00     DR
+
+211018501           THANAPUR (ATD)              0                  0.00                     1              25,516.00                    25,516.00     DR
+
+                        Total                   76               45,07,654.58               91             39,06,690.70                 6,00,963.88
+
+National Payments Corporation of India                                                                                                     Page 19 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  221,  VARANASI
+
+Branch              Branch                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+221018002           BULANALA(BUL)        0                  0.00                     78             52,06,105.63                 52,06,105.63  DR
+
+221018002           BULANALA(BUL)        81               49,15,393.38               0              0.00                         49,15,393.38
+
+221018003           MEHMOORGANJ(MEH)     0                  0.00                     43             18,84,551.00                 18,84,551.00  DR
+
+                        Total            81               49,15,393.38               121            70,90,656.63                 21,75,263.25  DR
+
+National Payments Corporation of India                                                                                              Page 20 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  226,  LUCKNOW
+
+Branch              Branch                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+226018002           MAIN BRANCH          0                  0.00                     95             68,74,140.13                 68,74,140.13  DR
+
+226018002           MAIN BRANCH          59               38,46,864.76               0              0.00                         38,46,864.76
+
+226018003           BANGLA BAZAR         0                  0.00                     42             15,67,279.00                 15,67,279.00  DR
+
+226018003           BANGLA BAZAR         21               7,66,360.00                0              0.00                         7,66,360.00
+
+226018004           GHOSHIPUR            0                  0.00                     41             32,78,946.00                 32,78,946.00  DR
+
+226018004           GHOSHIPUR            29               13,99,429.08               0              0.00                         13,99,429.08
+
+226018005           NADAN MAHAL ROAD     24               4,14,937.90                0              0.00                         4,14,937.90
+
+226018005           NADAN MAHAL ROAD     0                  0.00                     37             9,16,781.00                  9,16,781.00   DR
+
+226018006           SHIVAJI MARG         28               9,22,189.00                0              0.00                         9,22,189.00
+
+226018006           SHIVAJI MARG         0                  0.00                     44             12,70,470.76                 12,70,470.76  DR
+
+226018007           UTTARATHIA           0                  0.00                     41             11,00,822.00                 11,00,822.00  DR
+
+226018007           UTTARATHIA           44               12,28,120.00               0              0.00                         12,28,120.00
+
+226018008           DUBAGGA              0                  0.00                     11             1,86,867.00                  1,86,867.00   DR
+
+226018008           DUBAGGA              7                3,49,021.00                0              0.00                         3,49,021.00
+
+National Payments Corporation of India                                                                                              Page 21    of 44
+Report ID     :  A10-C                              DENA BANK                                                Clearing Type  :  Local
+
+Session No    :  1                                                                                           Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                  Destination    :  110018000
+
+Value Date    :  16/07/2016                 Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+226018009           GOMTI NAGAR             0                  0.00                     21   7,84,433.00                    7,84,433.00   DR
+
+226018009           GOMTI NAGAR             14      7,08,420.00                         0    0.00                           7,08,420.00
+
+226018010           RAJAJIPURAM             18      5,73,840.72                         0    0.00                           5,73,840.72
+
+226018010           RAJAJIPURAM             0                  0.00                     43   7,78,238.00                    7,78,238.00   DR
+
+226018011           ALIGANJ                 0                  0.00                     34   11,85,745.00                   11,85,745.00  DR
+
+226018011           ALIGANJ                 18      15,17,610.00                        0    0.00                           15,17,610.00
+
+226018013           HARDOI ROAD,RAHIMABAD,  0                  0.00                     3    3,17,308.00                    3,17,308.00   DR
+
+                    LUCKNOW (DHR)
+
+226018015           ALAMBAGH (DAL)          6       1,19,596.00                         0    0.00                           1,19,596.00
+
+226018015           ALAMBAGH (DAL)          0                  0.00                     12   3,78,728.00                    3,78,728.00   DR
+
+226018017           SULTANPUR ROAD (LSR)    0                  0.00                     2    26,407.00                      26,407.00     DR
+
+226018017           SULTANPUR ROAD (LSR)    1       15,00,000.00                        0    0.00                           15,00,000.00
+
+226018501           NIGOHA (DNI)            0                  0.00                     2    34,600.00                      34,600.00     DR
+
+                        Total               269     1,33,46,388.46                      428  1,87,00,764.89                 53,54,376.43  DR
+
+National Payments Corporation of India                                                                                         Page 22 of 44
+Report ID     :  A10-C                                 DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                      Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                             Destination    :  110018000
+
+Value Date    :  16/07/2016                    Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK,       110018000
+
+City             :  243,  Bareilly
+
+Branch              Branch                             Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                  (INR)
+
+                                               Items              Amount                   Items          Amount
+
+                                                                  (INR)                                   (INR)
+
+243018002           MARWARIGANJ (MRG)          22               26,99,967.00               0              0.00                         26,99,967.00
+
+243018002           MARWARIGANJ (MRG)          0                  0.00                     45             14,63,714.05                 14,63,714.05  DR
+
+                        Total                  22               26,99,967.00               45             14,63,714.05                 12,36,252.95
+
+National Payments Corporation of India                                                                                                    Page 23 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  248,  DEHRADUN
+
+Branch              Branch                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+248018002           BALBIR ROAD          0                  0.00                     37             12,04,483.00                 12,04,483.00  DR
+
+248018002           BALBIR ROAD          50               22,79,301.13               0              0.00                         22,79,301.13
+
+248018003           GMS ROAD             0                  0.00                     6              1,50,483.00                  1,50,483.00   DR
+
+248018004           PREM NAGAR (DPN)     0                  0.00                     8              3,95,599.00                  3,95,599.00   DR
+
+                        Total            50               22,79,301.13               51             17,50,565.00                 5,28,736.13
+
+National Payments Corporation of India                                                                                              Page 24 of 44
+Report ID     :  A10-C                                   DENA BANK                                                      Clearing Type  :  Local
+
+Session No    :  1                                                                                                      Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                             Destination    :  110018000
+
+Value Date    :  16/07/2016                      Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  249,  RISHIKESH - HARIDWAR
+
+Branch              Branch                               Outward                                     Inward                            Net Amount
+
+Routing No          Name                                                                                                                  (INR)
+
+                                                 Items                        Amount          Items          Amount
+
+                                                                              (INR)                          (INR)
+
+249018002           RAMNAGAR KANKHAL ROAD (RAM)  0                            0.00            1              36,071.00                 36,071.00   DR
+
+249018102           RISHIKESH BRANCH(DRB)        0                            0.00            3              48,200.00                 48,200.00   DR
+
+                        Total                    0                            0.00            4              84,271.00                 84,271.00   DR
+
+National Payments Corporation of India                                                                                                    Page 25 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  250,  MEERUT
+
+Branch              Branch                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+250018002           ABU LANE (ABL)       54               19,44,313.00               0              0.00                         19,44,313.00
+
+250018002           ABU LANE (ABL)       0                  0.00                     21             8,04,048.00                  8,04,048.00   DR
+
+250018003           SUBHASH BAZAR (SBS)  0                  0.00                     12             5,94,608.00                  5,94,608.00   DR
+
+250018004           PHAPHUNDA (DPH)      0                  0.00                     1              2,50,000.00                  2,50,000.00   DR
+
+250018005           SHASHTRI NAGAR(DSN)  0                  0.00                     1              36,500.00                    36,500.00     DR
+
+                        Total            54               19,44,313.00               35             16,85,156.00                 2,59,157.00
+
+National Payments Corporation of India                                                                                              Page 26 of 44
+Report ID     :  A10-C                                       DENA BANK                                                       Clearing Type  :  Local
+
+Session No    :  1                                                                                                           Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                  Destination    :  110018000
+
+Value Date    :  16/07/2016                          Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  263,  Haldwani
+
+Branch              Branch                                   Outward                                    Inward                              Net Amount
+
+Routing No          Name                                                                                                                       (INR)
+
+                                                     Items              Amount                   Items          Amount
+
+                                                                        (INR)                                   (INR)
+
+263018002           SHANTA TOWER,M.G.COLLEGE  (DST)  0                  0.00                     3              1,12,367.00                 1,12,367.00  DR
+
+263018002           SHANTA TOWER,M.G.COLLEGE  (DST)  9                5,17,051.00                0              0.00                        5,17,051.00
+
+                        Total                        9                5,17,051.00                3              1,12,367.00                 4,04,684.00
+
+National Payments Corporation of India                                                                                                         Page 27 of 44
+Report ID     :  A10-C                           DENA BANK                                                  Clearing Type  :  Local
+
+Session No    :  1                                                                                          Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                 Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  273,  GORAKHPUR
+
+Branch              Branch                       Outward                                    Inward                         Net Amount
+
+Routing No          Name                                                                                                      (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+273018001                                34               20,24,219.00               0              0.00                   20,24,219.00
+
+                        Total            34               20,24,219.00               0              0.00                   20,24,219.00
+
+National Payments Corporation of India                                                                                        Page 28 of  44
+Report ID     :  A10-C                             DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                  Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                         Destination    :  110018000
+
+Value Date    :  16/07/2016                Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK,   110018000
+
+City             :  282,  AGRA
+
+Branch              Branch                         Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                              (INR)
+
+                                           Items              Amount                   Items          Amount
+
+                                                              (INR)                                   (INR)
+
+282018002           HARIPARWAT AGRA        23               21,01,926.35               0              0.00                         21,01,926.35
+
+282018002           HARIPARWAT AGRA        0                  0.00                     31             11,57,768.00                 11,57,768.00  DR
+
+282018003           ALIGARH ROAD (ADG)     0                  0.00                     4              41,481.00                    41,481.00     DR
+
+                        Total              23               21,01,926.35               35             11,99,249.00                 9,02,677.35
+
+National Payments Corporation of India                                                                                                Page 29 of 44
+Report ID     :  A10-C                           DENA BANK                                                      Clearing Type  :  Local
+
+Session No    :  1                                                                                              Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                     Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  301,  ALWAR
+
+Branch              Branch                       Outward                                     Inward                            Net Amount
+
+Routing No          Name                                                                                                          (INR)
+
+                                         Items                        Amount          Items          Amount
+
+                                                                      (INR)                          (INR)
+
+301018002           BUS STAND ROAD       0                            0.00            6              59,033.00                 59,033.00    DR
+
+301018050           BHIWADI              0                            0.00            2              9,846.00                     9,846.00  DR
+
+                        Total            0                            0.00            8              68,879.00                 68,879.00    DR
+
+National Payments Corporation of India                                                                                            Page 30 of 44
+Report ID     :  A10-C                           DENA BANK                                                          Clearing Type  :  Local
+
+Session No    :  1                                                                                                  Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                         Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  302,  JAIPUR
+
+Branch              Branch                       Outward                                    Inward                                 Net Amount
+
+Routing No          Name                                                                                                              (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+302018002           M I ROAD             0                  0.00                     85             25,23,973.00                   25,23,973.00  DR
+
+302018002           M I ROAD             64               43,64,617.75               0              0.00                           43,64,617.75
+
+302018003           AMBABARI             70               23,15,205.69               0              0.00                           23,15,205.69
+
+302018003           AMBABARI             0                  0.00                     63             22,74,082.00                   22,74,082.00  DR
+
+302018004           HALDIO KA RASTA      0                  0.00                     133            1,13,37,220.00               1,13,37,220.00  DR
+
+302018004           HALDIO KA RASTA      79               2,25,47,839.55             0              0.00                         2,25,47,839.55
+
+302018005           MALVIYA NAGAR        24               16,20,736.00               0              0.00                           16,20,736.00
+
+302018005           MALVIYA NAGAR        0                  0.00                     31             17,76,575.00                   17,76,575.00  DR
+
+302018006           MANSAROVAR           25               8,45,446.00                0              0.00                           8,45,446.00
+
+302018006           MANSAROVAR           0                  0.00                     28             6,16,781.00                    6,16,781.00   DR
+
+302018007           CHITRAKOOT           21               4,92,369.00                0              0.00                           4,92,369.00
+
+302018007           CHITRAKOOT           0                  0.00                     32             11,04,198.00                   11,04,198.00  DR
+
+                        Total            283              3,21,86,213.99             372            1,96,32,829.00               1,25,53,384.99
+
+National Payments Corporation of India                                                                                                Page 31    of 44
+Report ID     :  A10-C                                     DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                          Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                 Destination    :  110018000
+
+Value Date    :  16/07/2016                        Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK,    110018000
+
+City             :  305,  AJMER
+
+Branch              Branch                                 Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                      (INR)
+
+                                                   Items              Amount                   Items          Amount
+
+                                                                      (INR)                                   (INR)
+
+305018002           MAIN BRANCH, PRITHVIRAJ  MARG  6                1,57,966.00                0              0.00                         1,57,966.00
+
+                    <PRM>
+
+305018002           MAIN BRANCH, PRITHVIRAJ  MARG  0                  0.00                     28             7,33,050.00                  7,33,050.00   DR
+
+                    <PRM>
+
+305018003           AJMER UIT (UIT)                0                  0.00                     7              3,36,341.00                  3,36,341.00   DR
+
+305018004           KISHANGARH <RIA>               0                  0.00                     4              46,52,258.00                 46,52,258.00  DR
+
+                        Total                      6                1,57,966.00                39             57,21,649.00                 55,63,683.00  DR
+
+National Payments Corporation of India                                                                                                        Page 32 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  311,  BHILWARA
+
+Branch              Branch                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+311018002           JAITHALI CHAMBERS    71               28,58,499.00               0              0.00                         28,58,499.00
+
+311018002           JAITHALI CHAMBERS    0                  0.00                     52             33,65,301.00                 33,65,301.00  DR
+
+                        Total            71               28,58,499.00               52             33,65,301.00                 5,06,802.00   DR
+
+National Payments Corporation of India                                                                                              Page 33 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  313,  UDAIPUR
+
+Branch              Branch                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+313018001           BAPU BAZAR           31               49,12,142.00               0              0.00                         49,12,142.00
+
+313018001           BAPU BAZAR           0                  0.00                     45             14,73,163.00                 14,73,163.00  DR
+
+                        Total            31               49,12,142.00               45             14,73,163.00                 34,38,979.00
+
+National Payments Corporation of India                                                                                              Page 34 of 44
+Report ID     :  A10-C                             DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                  Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                         Destination    :  110018000
+
+Value Date    :  16/07/2016                Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK,   110018000
+
+City             :  324,  KOTA
+
+Branch              Branch                         Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                              (INR)
+
+                                           Items              Amount                   Items          Amount
+
+                                                              (INR)                                   (INR)
+
+324018002           JHALAWAR ROAD          0                  0.00                     67             42,50,359.00                 42,50,359.00  DR
+
+324018002           JHALAWAR ROAD          43               8,31,521.00                0              0.00                         8,31,521.00
+
+                        Total              43               8,31,521.00                67             42,50,359.00                 34,18,838.00  DR
+
+National Payments Corporation of India                                                                                                Page 35 of 44
+Report ID     :  A10-C                                DENA BANK                                                         Clearing Type  :  Local
+
+Session No    :  1                                                                                                      Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                             Destination    :  110018000
+
+Value Date    :  16/07/2016                   Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK,      110018000
+
+City             :  334,  Bikaner
+
+Branch              Branch                            Outward                                     Inward                               Net Amount
+
+Routing No          Name                                                                                                                  (INR)
+
+                                              Items                        Amount          Items          Amount
+
+                                                                           (INR)                          (INR)
+
+334018002           K E M ROAD <KEM>          0                            0.00            26             12,09,248.00                 12,09,248.00  DR
+
+                        Total                 0                            0.00            26             12,09,248.00                 12,09,248.00  DR
+
+National Payments Corporation of India                                                                                                    Page 36 of 44
+Report ID     :  A10-C                                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016                              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  342,  JODHPUR
+
+Branch              Branch                                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                            (INR)
+
+                                                         Items              Amount                   Items          Amount
+
+                                                                            (INR)                                   (INR)
+
+342018002           M G HOSPITAL ROAD                    56               16,31,077.00               0              0.00                         16,31,077.00
+
+342018002           M G HOSPITAL ROAD                    0                  0.00                     69             24,21,072.00                 24,21,072.00  DR
+
+342018003           BAHAR ROAD,NANDPURI JODHPUR          0                  0.00                     38             10,69,908.00                 10,69,908.00  DR
+
+342018003           BAHAR ROAD,NANDPURI JODHPUR          9                69,96,428.00               0              0.00                         69,96,428.00
+
+342018004           Phalodi, Rai Ka Bagh Road, Near Old  0                  0.00                     1              98,079.00                    98,079.00     DR
+
+                    Bus Stand,
+
+                        Total                            65               86,27,505.00               108            35,89,059.00                 50,38,446.00
+
+National Payments Corporation of India                                                                                                              Page 37 of 44
+Report ID     :  A10-C                                  DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                       Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                              Destination    :  110018000
+
+Value Date    :  16/07/2016                     Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK,     110018000
+
+City             :  800,   PATNA
+
+Branch              Branch                              Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                   (INR)
+
+                                                Items              Amount                   Items          Amount
+
+                                                                   (INR)                                   (INR)
+
+800018002           MAURYALOK(MRL)              0                  0.00                     15             5,60,556.00                  5,60,556.00   DR
+
+800018002           MAURYALOK(MRL)              28               19,60,426.00               0              0.00                         19,60,426.00
+
+800018003           BORING ROAD BRANCH(BRD)     0                  0.00                     11             3,63,306.00                  3,63,306.00   DR
+
+800018004           BAKHTIYARPUR BRANCH (BTP)   0                  0.00                     1              17,000.00                    17,000.00     DR
+
+800018005           BIHTA BRANCH (BIH)          0                  0.00                     1              2,00,000.00                  2,00,000.00   DR
+
+800018006           KANKERBAGH BRANCH (KKB)     0                  0.00                     8              91,809.00                    91,809.00     DR
+
+800018007           BUDHA DETAL COLLEGE BRANCH  0                  0.00                     15             3,13,306.00                  3,13,306.00   DR
+
+                    (BDC)
+
+800018008           PHULWARISHARIF (PHU)        0                  0.00                     4              3,37,668.00                  3,37,668.00   DR
+
+800018009           KHAZANCHI ROAD (KHZ)        0                  0.00                     4              25,312.00                    25,312.00     DR
+
+800018010           RAJA BAZAR BRANCH (RBB)     0                  0.00                     1              7,000.00                        7,000.00   DR
+
+800018011           PATNA CITY BRANCH (PTC)     0                  0.00                     5              2,52,804.00                  2,52,804.00   DR
+
+                        Total                   28               19,60,426.00               65             21,68,761.00                 2,08,335.00   DR
+
+National Payments Corporation of India                                                                                                     Page 38 of 44
+Report ID     :  A10-C                             DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                  Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                         Destination    :  110018000
+
+Value Date    :  16/07/2016                Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK,   110018000
+
+City             :  823,  GAYA
+
+Branch              Branch                         Outward                                     Inward                              Net Amount
+
+Routing No          Name                                                                                                              (INR)
+
+                                           Items                        Amount          Items          Amount
+
+                                                                        (INR)                          (INR)
+
+823018002           MAIN BRANCH (MBR)      0                            0.00            10             5,14,579.00                 5,14,579.00  DR
+
+                        Total              0                            0.00            10             5,14,579.00                 5,14,579.00  DR
+
+National Payments Corporation of India                                                                                                Page 39 of 44
+Report ID     :  A10-C                           DENA BANK                                                   Clearing Type  :    Local
+
+Session No    :  1                                                                                           Frequency      :    Cycle
+
+Session Date  :  15/07/2016                                                                                  Destination    :    110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  826,  Dhanbad
+
+Branch              Branch                       Outward                                     Inward                         Net  Amount
+
+Routing No          Name                                                                                                         (INR)
+
+                                         Items                        Amount          Items          Amount
+
+                                                                      (INR)                          (INR)
+
+826018002           MAIN BRANCH (MBR)    0                            0.00            1              500.00                      500.00  DR
+
+                        Total            0                            0.00            1              500.00                      500.00  DR
+
+National Payments Corporation of India                                                                                           Page 40 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report -  Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  827,  BOKARO
+
+Branch              Branch                       Outward                                     Inward                              Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items                        Amount          Items          Amount
+
+                                                                      (INR)                          (INR)
+
+827018002           MAIN BRANCH (MBR)    0                            0.00            17             93,446.00                   93,446.00    DR
+
+827018003           CHAS BRANCH (CHS)    0                            0.00            9              4,12,338.00                 4,12,338.00  DR
+
+                        Total            0                            0.00            26             5,05,784.00                 5,05,784.00  DR
+
+National Payments Corporation of India                                                                                              Page 41 of 44
+Report ID     :  A10-C                                   DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                        Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                               Destination    :  110018000
+
+Value Date    :  16/07/2016                      Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  831,  JAMSHEDPUR
+
+Branch              Branch                               Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                                    (INR)
+
+                                                 Items              Amount                   Items          Amount
+
+                                                                    (INR)                                   (INR)
+
+831018002           JAMSHEDPUR (M)(BIS)          0                  0.00                     30             11,02,670.69                 11,02,670.69  DR
+
+831018002           JAMSHEDPUR (M)(BIS)          25               5,39,954.40                0              0.00                         5,39,954.40
+
+831018003           ADITYAPUR BAZAR BRANCH(ABB)  0                  0.00                     5              3,46,903.00                  3,46,903.00   DR
+
+831018004           KANDRA (KND)                 0                  0.00                     1              4,60,780.00                  4,60,780.00   DR
+
+                        Total                    25               5,39,954.40                36             19,10,353.69                 13,70,399.29  DR
+
+National Payments Corporation of India                                                                                                      Page 42 of 44
+Report ID     :  A10-C                           DENA BANK                                                        Clearing Type  :  Local
+
+Session No    :  1                                                                                                Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                       Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  834,  RANCHI
+
+Branch              Branch                       Outward                                    Inward                               Net Amount
+
+Routing No          Name                                                                                                            (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+834018002           RANCHI(RAN)          48               11,35,728.00               0              0.00                         11,35,728.00
+
+834018002           RANCHI(RAN)          0                  0.00                     20             22,30,132.68                 22,30,132.68  DR
+
+834018003           DORANDA BRANCH(DRD)  0                  0.00                     6              74,470.00                    74,470.00     DR
+
+834018004           KANKE (KNK)          0                  0.00                     1              7,053.00                        7,053.00   DR
+
+                        Total            48               11,35,728.00               27             23,11,655.68                 11,75,927.68  DR
+
+National Payments Corporation of India                                                                                              Page 43 of 44
+Report ID     :  A10-C                           DENA BANK                                                           Clearing Type  :  Local
+
+Session No    :  1                                                                                                   Frequency      :  Cycle
+
+Session Date  :  15/07/2016                                                                                          Destination    :  110018000
+
+Value Date    :  16/07/2016              Branch  Settlement Report - Group by  city
+
+Name of Bank     : DENA BANK, 110018000
+
+City             :  842,  MUZAFFARPUR
+
+Branch              Branch                       Outward                                    Inward                                  Net Amount
+
+Routing No          Name                                                                                                               (INR)
+
+                                         Items              Amount                   Items          Amount
+
+                                                            (INR)                                   (INR)
+
+842018002           MAIN BRANCH (MBR)    0                  0.00                     4              1,48,248.00                     1,48,248.00   DR
+
+                        Total            0                  0.00                     4              1,48,248.00                     1,48,248.00   DR
+
+              Bank Summary :             5,028            28,09,21,074.03            6,244          33,82,96,255.13               5,73,75,181.10  DR
+
+National Payments Corporation of India                                                                                                 Page 44 of 44
+
